@@ -37,7 +37,7 @@ map.html
 <font color="red"><b>Chembarabakkam</b></font>
 </h1>
 <h3 align="center">
-<font color="blue"><b>R.D.ROHITH (25002753)</b></font>
+<font color="blue"><b>Godwin Lawrance L (25015487)</b></font>
 </h3>
 <center>
 <img src="map.jpeg" usemap="#MyCity" >
